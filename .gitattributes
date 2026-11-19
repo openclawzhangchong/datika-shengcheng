@@ -1,0 +1,6 @@
+# 统一换行，避免 CRLF/LF 混用报警
+* text=auto eol=lf
+*.html text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.mjs text eol=lf
